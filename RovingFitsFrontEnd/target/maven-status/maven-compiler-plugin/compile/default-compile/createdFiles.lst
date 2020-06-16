@@ -1,0 +1,8 @@
+com\niit\RovingFitsFrontEnd\Controller\AddressController.class
+com\niit\RovingFitsFrontEnd\Controller\LoginController.class
+com\niit\RovingFitsFrontEnd\Controller\UserOrderController.class
+com\niit\RovingFitsFrontEnd\Controller\CategoryController.class
+com\niit\RovingFitsFrontEnd\Controller\ProductController.class
+com\niit\RovingFitsFrontEnd\Controller\HomeController.class
+com\niit\RovingFitsFrontEnd\Controller\CartController.class
+com\niit\RovingFitsFrontEnd\Controller\RegisterController.class
